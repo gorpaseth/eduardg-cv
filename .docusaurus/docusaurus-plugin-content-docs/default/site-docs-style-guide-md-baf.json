@@ -1,0 +1,24 @@
+{
+  "id": "style-guide",
+  "title": "Style Guide",
+  "description": "A style guide is a document including a set of rules that companies provide to their employees to achieve consistency in writing. In theory, a style guide helps a company's written output be neutral, professional, and correct. As of September 2017, Netcentric has not yet put in place a style guide. The following sections aim at developing the building blocks for a Netcentric style guide.",
+  "source": "@site/docs/style-guide.md",
+  "sourceDirName": ".",
+  "slug": "/style-guide",
+  "permalink": "/docs/style-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/style-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "style-guide",
+    "title": "Style Guide",
+    "slug": "/style-guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Eduard Gorpasin Resume",
+    "permalink": "/docs/cv"
+  }
+}

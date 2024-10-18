@@ -1,0 +1,28 @@
+{
+  "id": "cv",
+  "title": "Eduard Gorpasin Resume",
+  "description": "eduard.gorpasin@protonmail.com",
+  "source": "@site/docs/cv.md",
+  "sourceDirName": ".",
+  "slug": "/cv",
+  "permalink": "/docs/cv",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/cv.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cv",
+    "title": "Eduard Gorpasin Resume",
+    "slug": "/cv"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/style-guide"
+  }
+}
