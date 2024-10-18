@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debuug.log*
+
+# Build director
+dist/
+build/
+
+# Temporary files
+*.tmp
+*temp
+
+#sustem files
+.DS_Store
+Thumbs.dby
