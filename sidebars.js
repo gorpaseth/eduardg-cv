@@ -30,4 +30,18 @@ const sidebars = {
    */
 };
 
-export default sidebars;
+// sidebars.js
+module.exports = {
+  tutorialSidebar: [
+    {
+      type: 'category',
+      label: 'Docs',
+      items: [
+        'intro', // Ensure you have an intro.md file in the docs folder
+        'cv',    // Add other markdown files as necessary
+        'style-guide',
+      ],
+    },
+  ],
+};
+
