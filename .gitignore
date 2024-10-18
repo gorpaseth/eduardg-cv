@@ -4,16 +4,12 @@ node_modules/
 # Logs
 logs
 *.log
-npm-debuug.log*
+npm-debug.log*
 
-# Build director
-dist/
+# Build outputs
 build/
+dist/
 
-# Temporary files
-*.tmp
-*temp
-
-#sustem files
+# Miscellaneous
 .DS_Store
-Thumbs.dby
+.env
